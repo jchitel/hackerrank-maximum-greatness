@@ -4,7 +4,7 @@ Requirements: Node >= 22, PNPM
 
 Main code: `src/index.ts`
 
-Tests: `tests/index.ts`
+Test: `tests/index.ts`
 
 To run tests:
 ```
